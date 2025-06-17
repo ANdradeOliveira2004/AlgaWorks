@@ -1,0 +1,4 @@
+Esse é minha primeira escrita em arquivo texto em Java
+Paulo
+Arthur
+Gabrielle
